@@ -1,15 +1,15 @@
 {
-    "name": "dero ",
-    "description": "+-",
+    "name": "multiappmasterhero ",
+    "description": "multiappmasterhero",
     "keywords": ["shell", "telegram", "docker", "bot"],
     "repository": "+-",
     "stack": "container",
     "env": {
       "c": {
-        "description": "isi a"
+        "description": "a"
       },
       "P": {
-        "description": "isi b"
+        "description": "b"
       }
     }
   }
